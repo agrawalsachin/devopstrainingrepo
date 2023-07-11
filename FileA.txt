@@ -1,1 +1,4 @@
-This is File A New Version 1
+This is File A
+This is temp version
+This is update for FastForward Merge
+This is for squash merge
