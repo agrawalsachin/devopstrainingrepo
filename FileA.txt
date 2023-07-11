@@ -2,3 +2,4 @@ This is File A
 This is temp version
 This is update for FastForward Merge
 This is for squash merge
+This is for tagging
