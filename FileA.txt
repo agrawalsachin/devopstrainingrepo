@@ -1,4 +1,2 @@
 This is File A
 This is file A New Version for FeatureB Branch
-This is before tag
-This is after tag
