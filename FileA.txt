@@ -1,2 +1,4 @@
 This is File A
 This is file A New Version for FeatureB Branch
+New change to file A
+New version
